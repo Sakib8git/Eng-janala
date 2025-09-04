@@ -1,6 +1,10 @@
-*{
-font-family: "Poppins", sans-serif;
+* {
+  font-family: "Poppins", sans-serif;
 }
-.font-ban{
-    font-family: "Hind Siliguri", sans-serif;
+.font-ban {
+  font-family: "Hind Siliguri", sans-serif;
+}
+.active {
+  background: #422ad5;
+  color: white;
 }
